@@ -1,7 +1,12 @@
 README
 
+DESCRIPTION:
+-------------------------
 This is a java code file containing methods that perform matrix operations such as Guass Jordan elimination, matrix multiplication, and raising a matrix to a power. You can define matrices in main() and use these methods on them and print the result.
 
+
+INSTRUCTIONS TO RUN:
+-------------------------
 -Open command prompt 
    search cmd in search bar and run as administrator
 
